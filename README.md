@@ -8,4 +8,4 @@
 
 ## Hobi: Traveling
 
-### DigitalSkola QA Enginer Bootcamp Batch 3
+### DigitalSkola QA Enginer Bootcamp Batch 3.
